@@ -2,4 +2,4 @@
 
 should install:
 
-scikit-learn, Tensorflow, numpy, pydot
+scikit-learn, Tensorflow, numpy, pydot and Scipy.
